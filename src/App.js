@@ -41,7 +41,6 @@ const emogieDict = {
   "😬": "Grimacing Face",
   "🤥": "Lying Face",
   "😌": "Relieved Face",
-
   "😪": "Sleepy Face",
   "🤤": "Drooling Face",
   "😴": "Sleeping Face",
